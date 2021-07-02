@@ -1,9 +1,11 @@
 
-# GENERAL INFO
+# GIT AND GITHUB
 
-In this course I learned to use Git and Github, wich allows several people to work in the same project simul
+On this course I learned how properly use Git and Github, these are great tools for remote teamwork in any programming enviroment.
 
 # TECHNOLOGIES
+
+this is nowhere near a complete list of all commands on git or github, but some of the most used and practiced during this course.
 
 **SETUP**
 Configuring user information used across all local repositories
@@ -29,6 +31,7 @@ Isolating work in branches, changing context, and integrating changes
 * *git commit -m “[descriptive message]”:* commit your staged content as a new commit snapshot
 
 **BRANCH & MERGE**
+
 Isolating work in branches, changing context, and integrating changes
 
 * *git branch:* list your branches. a * will appear next to the currently active branch
@@ -83,4 +86,6 @@ Temporarily store modified, tracked files in order to change branches
 
 # Setup
 ---
-    # Java
+    https://git-scm.com/downloads
+    https://github.com/
+    
